@@ -1,7 +1,6 @@
 package com.learnta.clear;
 
 import android.content.Context;
-import android.support.annotation.Nullable;
 import android.util.Log;
 
 import com.facebook.react.bridge.Arguments;
